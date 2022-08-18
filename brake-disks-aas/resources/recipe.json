@@ -1,0 +1,49 @@
+[
+  {
+    "executionDeviceId": "storage",
+    "serviceId": "retrieve",
+    "params": [
+      "0"
+    ]
+  },
+  {
+    "executionDeviceId": "transportRobot",
+    "serviceId": "transportFromToService",
+    "params": [
+      "storage",
+      "oven"
+    ]
+  },
+  {
+    "executionDeviceId": "oven",
+    "serviceId": "burnService",
+    "params": [
+      "25,45,80,120,120,120,120,80,65,40,25,20"
+    ]
+  },
+  {
+    "executionDeviceId": "line",
+    "serviceId": "transportAtoBService",
+    "params": []
+  },
+  {
+    "executionDeviceId": "qa",
+    "serviceId": "analyseService",
+    "params": []
+  },
+  {
+    "executionDeviceId": "transportRobot",
+    "serviceId": "transportFromToService",
+    "params": [
+      "qa",
+      "storage"
+    ]
+  },
+  {
+    "executionDeviceId": "storage",
+    "serviceId": "store",
+    "params": [
+      "0"
+    ]
+  }
+]
