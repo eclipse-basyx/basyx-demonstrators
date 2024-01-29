@@ -1,0 +1,63 @@
+[
+	{
+		"datasource": "stanzengut",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["stanzen/gut"],
+		"trigger": "event"
+	},	
+	{
+		"datasource": "stanzenschlecht",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["stanzen/schlecht"],
+		"trigger": "event"
+	},
+		{
+		"datasource": "schleifengut",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["schleifen/gut"],
+		"trigger": "event"
+	},	
+	{
+		"datasource": "schleifenschlecht",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["schleifen/schlecht"],
+		"trigger": "event"
+	},
+		{
+		"datasource": "fraesengut",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["fraesen/gut"],
+		"trigger": "event"
+	},	
+	{
+		"datasource": "fraesenschlecht",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["fraesen/schlecht"],
+		"trigger": "event"
+	},
+		{
+		"datasource": "haertengut",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["haerten/gut"],
+		"trigger": "event"
+	},	
+	{
+		"datasource": "haertenschlecht",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["haerten/schlecht"],
+		"trigger": "event"
+	},
+		{
+		"datasource": "richtengut",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["richten/gut"],
+		"trigger": "event"
+	},	
+	{
+		"datasource": "richtenschlecht",
+		"transformers": ["dataValueToJson", "jsonataExtractValue"],
+		"datasinks": ["richten/schlecht"],
+		"trigger": "event"
+	}
+	
+]

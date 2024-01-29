@@ -1,0 +1,162 @@
+[
+	{
+		"uniqueId": "stanzengut",
+		"nodeInformation": "ns=3;i=6203",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5050,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "stanzenschlecht",
+		"nodeInformation": "ns=3;i=6202",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5050,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "schleifengut",
+		"nodeInformation": "ns=3;i=6203",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5051,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "schleifenschlecht",
+		"nodeInformation": "ns=3;i=6202",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5051,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "fraesengut",
+		"nodeInformation": "ns=3;i=6203",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5052,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "fraesenschlecht",
+		"nodeInformation": "ns=3;i=6202",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5052,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "haertengut",
+		"nodeInformation": "ns=3;i=6203",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5053,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "haertenschlecht",
+		"nodeInformation": "ns=3;i=6202",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5053,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "richtengut",
+		"nodeInformation": "ns=3;i=6203",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5054,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	},
+		{
+		"uniqueId": "richtenschlecht",
+		"nodeInformation": "ns=3;i=6202",
+		"serverUrl": "ipaemulator",
+		"serverPort": 5054,
+		"pathToService": "/",
+		"parameters": {
+			"allowedSecurityPolicies": "None",
+			"keyAlias": null,
+			"keyPassword": null,
+			"keyStoreType": null,
+			"keyStorePassword": null,
+			"keyStoreUrl": null,
+			"requestedPublishingInterval": 50
+		}
+	}
+]

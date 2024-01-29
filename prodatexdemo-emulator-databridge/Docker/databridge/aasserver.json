@@ -1,0 +1,66 @@
+[
+	{
+		"uniqueId": "stanzen/gut",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8wMDM0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_1",
+		"api": "DotAAS-V3"
+	},
+		{
+		"uniqueId": "stanzen/schlecht",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8wMDM0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_2",
+		"api": "DotAAS-V3"
+	},
+		{
+		"uniqueId": "schleifen/gut",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8wMDMz",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_1",
+		"api": "DotAAS-V3"
+	},
+		{
+		"uniqueId": "schleifen/schlecht",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8wMDMz",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_2",
+		"api": "DotAAS-V3"
+	},
+			{
+		"uniqueId": "fraesen/gut",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8wMDQ0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_1",
+		"api": "DotAAS-V3"
+	},
+		{
+		"uniqueId": "fraesen/schlecht",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8wMDQ0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_2",
+		"api": "DotAAS-V3"
+	},
+				{
+		"uniqueId": "haerten/gut",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8xMTQ0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_1",
+		"api": "DotAAS-V3"
+	},
+		{
+		"uniqueId": "haerten/schlecht",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTEzMl8xMTQ0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_2",
+		"api": "DotAAS-V3"
+	},
+					{
+		"uniqueId": "richten/gut",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTExMV8xMTQ0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_1",
+		"api": "DotAAS-V3"
+	},
+		{
+		"uniqueId": "richten/schlecht",
+		"submodelEndpoint":"http://aas-env:8081/submodels/aHR0cHM6Ly9wcm9kYXRleHByb2plY3QuY29tL2lkcy9zbS82Mjk1XzIxNDJfMTExMV8xMTQ0",
+		"idShortPath": "Metadata.Segments.InternalSegment.Records.Record.Pruefwert_2",
+		"api": "DotAAS-V3"
+	}
+	
+	
+	
+	
+]
