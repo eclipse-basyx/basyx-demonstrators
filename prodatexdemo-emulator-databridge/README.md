@@ -8,6 +8,7 @@ The industrial use case is a data drive optimization of processes for the manufa
 In order to set the demonstrator up quickly a dockerized version is available:
 * Clone this repository
 * Open console and change into *Docker* folder
+* In file aas-env.properties set your IP of your docker-machine at: basyx.externalurl
 * Run `docker compose up`
 * The demonstrator user interface can be accessed on *yourIP*:81
 * The AAS UI is available on *yourIP*
